@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1035093977226",
+    "project_id": "abc-interview",
+    "storage_bucket": "abc-interview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035093977226:android:e88bfb7b66165ebc372573",
+        "android_client_info": {
+          "package_name": "com.example.codebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035093977226-a6279gltb1io347pipfb4g0arh5r5216.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7vUN7fk10MsM-RAEl7bysF0gjqzFS00E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035093977226-a6279gltb1io347pipfb4g0arh5r5216.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035093977226:android:9a1dfde3d09fe0b4372573",
+        "android_client_info": {
+          "package_name": "com.example.shifts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035093977226-a6279gltb1io347pipfb4g0arh5r5216.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7vUN7fk10MsM-RAEl7bysF0gjqzFS00E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035093977226-a6279gltb1io347pipfb4g0arh5r5216.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
